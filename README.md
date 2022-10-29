@@ -1,5 +1,7 @@
 # Android-Studio-Practice-1
 Пробный репозиторий. Старый проект "Таблица для учителя"
+![Screenshot](Аннотация 2022-10-29 184920.png)
+
 ```
 private void btnAdd_Click(object sender, EventArgs e)
         {
